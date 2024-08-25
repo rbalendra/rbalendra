@@ -20,7 +20,19 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 
 ### Table of Contents
 + [Summary](#about)
++ [Portfolio Projects](#portfolio-projects)
 
+
+
+
+
+
+
+
+
+
+### Portfolio Projects
+In this section, I’ll showcase data analytics projects, providing a brief overview of the technology stack used to address each case.
 <!--
 **rbalendra/rbalendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
