@@ -7,8 +7,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 ### Technical Skills 🔨
 + Microsoft Excel
 + Microsoft Power BI
-+ SQL
-+ SSIS (SQL Server Intergration Services)
++ SQL 
 + SSMS (SQL Server Management Studio)
 + Tableau
 + Python
