@@ -5,6 +5,9 @@
 I'm a junior data enthusiast with a passion for turning data into meaningful insights. With skills in SQL, Python, Power BI, and Tableau, I've tackled real-world business problems, delivering data-driven recommendations. My portfolio showcases projects in property analysis, statistical data analysis, and interactive visualizations. I'm now seeking an entry-level data analyst role where I can contribute to data-driven decision-making and continue honing my skills.
 
 <h3>TECHNICAL SKILLS 🔨</h3>
++ Microsoft Excel
++ Microsoft Power BI
++ SQL
 
 <!--
 **rbalendra/rbalendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
