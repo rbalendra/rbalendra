@@ -1,5 +1,12 @@
 ## Hi there 👋
 <img title="banner" alt="Alt text" src="Black.png">
+
+Data Analyst | SQL | Python | Power BI | Tableau
+
+I'm a junior data analyst whose is passionate about transforming data into actionable insights. With expertise in SQL, Python, Power BI, and Tableau, I've tackled real-world business problems, delivering data-driven recommendations. My portfolio showcases projects in property analysis, statistical data analysis, and interactive visualizations. I'm now seeking an entry-level data analyst role where I can contribute to data-driven decision-making and continue honing my skills.
+
+
+
 <!--
 **rbalendra/rbalendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
