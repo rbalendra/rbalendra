@@ -18,7 +18,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 
 
 ### Table of Contents
-+ [Summary](#about)
++ [Summary](#summary)
 + [Portfolio Projects](#portfolio-projects)
 
 
