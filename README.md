@@ -1,4 +1,4 @@
-## Hi there 👋
+# Who's Rajeev And What Has He Built? 👨🏽‍💻📊
 <img title="banner" alt="Alt text" src="Black.png">
 
 ## Summary 
@@ -13,8 +13,8 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 + Python
 + Data modelling
 + Data warehouse
-+ ETL
-+ Cloud Platform
++ ETL Tools
++ Cloud Platform (Azure, Fabric)
 
 
 ## Table of Contents
