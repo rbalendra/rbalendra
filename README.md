@@ -20,8 +20,8 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 ## Table of Contents
 + [Summary](#summary)
 + [Portfolio Projects](#portfolio-projects)
-  - [Property Analysis](#-property-analysis)
-  - [Airline Flights Analysis](#-Airline-Flights-Analysis)
+  - [Property Analysis](#property-analysis)
+  - [Airline Flights Analysis](#airline-flights-analysis)
 
 
 
