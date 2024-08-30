@@ -63,7 +63,7 @@ In this section, I’ll showcase data analytics projects, providing a brief over
 
 **Results:** A fully operational data warehouse with well-structured dimension and fact tables, SSIS packages that efficiently load and transform data, and SSRS reports that enable detailed analysis of property values and crime statistics by state, city, and suburb.
 
-### Airline Flights Analysis ✈️✈️✈️
+## Airline Flights Analysis ✈️✈️✈️
 <!--
 **rbalendra/rbalendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
