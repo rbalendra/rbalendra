@@ -30,6 +30,25 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Portfolio Projects
 In this section, I’ll showcase data analytics projects, providing a brief overview of the technology stack used to address each case.
 <!--
