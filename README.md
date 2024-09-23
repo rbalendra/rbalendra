@@ -21,7 +21,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 + [Summary](#summary)
 + [Portfolio Projects](#portfolio-projects)
   - [Property Analysis](#property-analysis)
-  - [Customer Churn Analysis](#customer-churn-analysis)
+  - [Customer Churn Analysis](#customer-churn-analysis (Case study))
 
 
 
