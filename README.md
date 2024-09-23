@@ -85,11 +85,22 @@ Formulating Calculated Columns & Measures using DAX
 4. Build a dashboard or story so you can cohesively share the information
 5. Organise a session with stakeholders and walk them through the dashboard or story
 
-![1](https://github.com/user-attachments/assets/83fa952a-db09-4807-8425-d43687a5b6f3)
+
+![1](https://github.com/user-attachments/assets/9550accb-2c79-4643-a39e-1acf7e791ba6)
 The insights dashboard summarizes the customer service experience by analyzing customer service calls, extra charges, and their relationship with churn. It includes a geographic breakdown of customer service calls and churn by state, offering a comprehensive view of how service quality affects retention.
 
+![2](https://github.com/user-attachments/assets/83cdbcbb-8946-4d90-97b4-7306b913f341)
+This is the breakdown of customer churn by age groups, showing the churn rate and number of customers in each age bracket. It also compares the average monthly charge and churn rate across different customer age groups, revealing how age and monthly charges influence customer retention.
 
-<!--
+![3](https://github.com/user-attachments/assets/432a86df-0566-4e92-b68f-026009229f94)
+This dashboard analyzes churn rates based on account length and contract types, while also considering customer service calls. The report provides a detailed view of churn by contract length and compares the average account length and churn rate across different contract types and payment methods.
+
+![4](https://github.com/user-attachments/assets/98317268-de1b-46af-8f37-4acac2d669c7)
+This focuses on the impact of extra charges on customer churn, highlighting the churn rate based on unlimited data plans and grouped data consumption categories. It provides insights into how extra data and international charges contribute to overall customer churn.
+
+![5](https://github.com/user-attachments/assets/3e8fd633-4a28-4ca2-8dee-b07ce3a3f4ed)
+The insights dashboard summarizes the customer service experience by analyzing customer service calls, extra charges, and their relationship with churn. It includes a geographic breakdown of customer service calls and churn by state, offering a comprehensive view of how service quality affects retention.
+
 **rbalendra/rbalendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
