@@ -21,7 +21,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 + [Summary](#summary)
 + [Portfolio Projects](#portfolio-projects)
   - [Property Analysis](#property-analysis)
-  - [Customer Churn Analysis](#customer-churn-analysis (Case study))
+  - [Customer Churn Analysis](#customer-churn-analysis)
 
 
 
@@ -69,7 +69,7 @@ In this section, I’ll showcase data analytics projects, providing a brief over
 
 
 
-### Customer Churn Analysis (Case Study)
+### Customer Churn Analysis
 
 **Technology:** Microsoft Power BI
 
