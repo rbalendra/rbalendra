@@ -101,5 +101,16 @@ This focuses on the impact of extra charges on customer churn, highlighting the 
 ![5](https://github.com/user-attachments/assets/3e8fd633-4a28-4ca2-8dee-b07ce3a3f4ed)
 The insights dashboard summarizes the customer service experience by analyzing customer service calls, extra charges, and their relationship with churn. It includes a geographic breakdown of customer service calls and churn by state, offering a comprehensive view of how service quality affects retention.
 
-https://github.com/user-attachments/assets/16a969b8-88cb-4bc6-8cfc-a2ce86d512ce
+
+https://github.com/user-attachments/assets/9718c39d-a1b8-4acc-81e0-e0eb24c798f4
+
+
+**Findings:** 
+- Competitive Pressure: A significant portion of customers churned in favor of competitors offering better deals and services. This finding emphasizes the importance of ongoing market analysis and the need for competitive pricing strategies to retain customers.
+- Demographics: Age 60 and above exhibited higher churn rates suggesting they maybe more sensitive to market trends and service quality, warranting targeted retention strategies for this demographic.
+  Also California state had the highest churners while the customer service calls were the lowest. This indicates that customers may have been unhappy with the service but didn't reach out for assistance or resolution.
+- Payment & Contracts: Longer-term contracts were associated with lower churn rates, indicating that customers either appreciate the stability of long-term agreements or are discouraged from leaving due to early termination penalties.
+
+
+
 
