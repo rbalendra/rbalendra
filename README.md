@@ -21,7 +21,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 + [Summary](#summary)
 + [Portfolio Projects](#portfolio-projects)
   - [Property Analysis](#property-analysis)
-  - [Airline Flights Analysis](#airline-flights-analysis)
+  - [Customer Churn Analysis](#customer-churn-analysis)
 
 
 
@@ -69,7 +69,7 @@ In this section, I’ll showcase data analytics projects, providing a brief over
 
 
 
-### Airline Flights Analysis
+### Customer Churn Analysis
 <!--
 **rbalendra/rbalendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
