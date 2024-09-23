@@ -66,9 +66,7 @@ In this section, I’ll showcase data analytics projects, providing a brief over
 ![Image 5](https://github.com/user-attachments/assets/c4590719-7034-41a0-8a2f-52e36323e28a)
 ![Image 6](https://github.com/user-attachments/assets/0ae6b50e-461a-4ffd-b12b-5fd984a1f57d)
 
-
-
-
+      <br>
 ## Customer Churn Analysis
 
 **Technology:** Microsoft Power BI 
