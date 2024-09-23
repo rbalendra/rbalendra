@@ -85,6 +85,8 @@ Formulating Calculated Columns & Measures using DAX
 4. Build a dashboard or story so you can cohesively share the information
 5. Organise a session with stakeholders and walk them through the dashboard or story
 
+![1](https://github.com/user-attachments/assets/83fa952a-db09-4807-8425-d43687a5b6f3)
+The insights dashboard summarizes the customer service experience by analyzing customer service calls, extra charges, and their relationship with churn. It includes a geographic breakdown of customer service calls and churn by state, offering a comprehensive view of how service quality affects retention.
 
 
 <!--
