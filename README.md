@@ -101,3 +101,5 @@ This focuses on the impact of extra charges on customer churn, highlighting the 
 ![5](https://github.com/user-attachments/assets/3e8fd633-4a28-4ca2-8dee-b07ce3a3f4ed)
 The insights dashboard summarizes the customer service experience by analyzing customer service calls, extra charges, and their relationship with churn. It includes a geographic breakdown of customer service calls and churn by state, offering a comprehensive view of how service quality affects retention.
 
+https://github.com/user-attachments/assets/16a969b8-88cb-4bc6-8cfc-a2ce86d512ce
+
