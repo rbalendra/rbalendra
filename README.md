@@ -47,10 +47,10 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 
 
 
-## Portfolio Projects  
+# Portfolio Projects  
 In this section, I’ll showcase data analytics projects, providing a brief overview of the technology stack used to address each case.
 
-### Property Analysis
+## Property Analysis
 **Technology:** Microsoft SQL Server, SQL Server Intergration Services, SQL Server Reporting Services, T-SQL, Visual Student, Microsoft Power BI
 
 **Skills:** ETL processes, data cleaning, star schema or Snow Flake design, SSIS package development, SSRS report creation, parameterized reporting, data aggregation, SQL querying, lookup transformations, handling data duplication.
@@ -69,7 +69,7 @@ In this section, I’ll showcase data analytics projects, providing a brief over
 
 
 
-### Customer Churn Analysis
+## Customer Churn Analysis
 
 **Technology:** Microsoft Power BI 
 
