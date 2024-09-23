@@ -71,9 +71,10 @@ In this section, I’ll showcase data analytics projects, providing a brief over
 
 ### Customer Churn Analysis
 
-**Technology:** Microsoft Power BI
+**Technology:** Microsoft Power BI 
 
-**Skills:** Data Check --> Explore Data --> Analyse & Visualise Data --> Dashboarding --> Communicate Insights 
+**Skills:** Data Check --> Explore Data --> Analyse & Visualise Data --> Dashboarding --> Communicate Insights.
+Formulating Calculated Columns & Measures using DAX
 
 **Description:** As a data analyst, my primary objective was to uncover insights into customer churn and understand the factors contributing to it. The dataset, provided by a telecom company named Databel, required in-depth analysis to identify patterns of customer attrition, also known as churn. Churn refers to the rate at which customers cease doing business with a company. Given that retaining customers is generally more cost-effective than acquiring new ones, reducing churn is a critical priority for many organizations. This project involved detailed data analysis to provide actionable insights that could help the company proactively address customer churn and enhance retention strategies.
 
@@ -83,6 +84,9 @@ In this section, I’ll showcase data analytics projects, providing a brief over
 3. Discover insights and visualise them using suitable visualisation
 4. Build a dashboard or story so you can cohesively share the information
 5. Organise a session with stakeholders and walk them through the dashboard or story
+
+
+
 <!--
 **rbalendra/rbalendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
