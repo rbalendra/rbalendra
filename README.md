@@ -22,6 +22,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 + [Portfolio Projects](#portfolio-projects)
   - [Property Analysis](#property-analysis)
   - [Customer Churn Analysis](#customer-churn-analysis)
+  - [HR Analytics in Power BI](#hr-analytics-in-power-bi)
 
 
 
@@ -110,5 +111,5 @@ https://github.com/user-attachments/assets/9718c39d-a1b8-4acc-81e0-e0eb24c798f4
 - Payment & Contracts: Longer-term contracts were associated with lower churn rates, indicating that customers either appreciate the stability of long-term agreements or are discouraged from leaving due to early termination penalties.
 
 
-
+## HR Analytics in Power BI
 
