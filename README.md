@@ -113,3 +113,38 @@ https://github.com/user-attachments/assets/9718c39d-a1b8-4acc-81e0-e0eb24c798f4
 
 ## HR Analytics in Power BI
 
+**Technology:** Microsoft Power BI & DAX
+
+
+**Skills:**
+- Data Import and Integration
+- Data Visualisation and Dashboard Creation
+- DAX Calculations (Measures, Calculated Columns)
+- Data Exploration and Segmentation
+- Slicer and Filtering Implementation
+
+**Steps taken:** 
+- Imported HR dataset into Power BI
+- Created relationships between relevant tables (e.g., employee details, performance, attrition)
+- Developed DAX measures for key metrics like attrition rate, satisfaction levels, and employee demographics
+- Visualised data using a variety of chart types (bar charts, line charts, tree maps)
+- Applied slicers for dynamic filtering of data by time, employee, and various factors like department and job role
+
+  ![image](https://github.com/user-attachments/assets/20a0b54c-0392-4911-bdc5-11774fa29080)
+  Overview Dashboard: This dashboard provides a summary of the organization’s workforce, including the total number of employees, active and inactive employees, and the overall attrition rate. It also displays trends in employee hiring over time and breaks down active employees by department and job role. This high-level view helps stakeholders understand the organization’s current staffing levels and how they’ve evolved over the years.
+
+![image](https://github.com/user-attachments/assets/92e42837-c7dd-4a1d-b261-54d6306adc8a)
+Demographics Dashboard: The demographics dashboard offers a detailed look at the age, gender, and ethnicity of the employees. It shows the distribution of employees across different age groups and gender categories, providing insights into the diversity of the workforce. This dashboard also explores the relationship between employee ethnicity and average salary, offering a clear understanding of compensation equity across different ethnic groups.
+
+![image](https://github.com/user-attachments/assets/82c797cb-5782-4988-ad3e-45db05a91a79)
+Performance Tracker Dashboard: This dashboard focuses on individual employee performance, allowing users to track metrics like manager rating, self-rating, and satisfaction levels over time. The ratings are segmented into different levels (Exceeds Expectations, Meets Expectations, Needs Improvement), giving a granular view of performance trends. It also includes job satisfaction and environment satisfaction data across multiple years, helping to assess how employee engagement has shifted over time.
+
+![image](https://github.com/user-attachments/assets/300f35b3-d097-460c-ac34-ccccfcbc1a07)
+Attrition Dashboard: The attrition dashboard analyzes factors contributing to employee turnover. It includes metrics like attrition by job role, travel frequency, and overtime requirements. The dashboard also explores attrition rates by employee tenure, showing how long employees stay at the company before leaving. A line chart illustrates how the attrition rate has evolved year by year, giving a comprehensive view of retention challenges within the organization.
+
+**Key Insights:** 
+- The company's attrition rate is 16.12%, with sales representatives and recruiters having the highest attrition.
+- Employee performance shows a dip in job satisfaction and manager ratings post-2019, indicating potential areas of concern.
+- The demographic breakdown reveals a younger workforce, mostly in the 20-29 age group, with a significant gender gap favoring males.
+- Hiring trends suggest growth, with the number of employees peaking in 2022, but attrition is more prominent among those with less than 2 years at the company.
+- Overtime and travel requirements seem to correlate with higher attrition rates.
