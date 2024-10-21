@@ -149,3 +149,13 @@ Attrition Dashboard: The attrition dashboard analyzes factors contributing to em
 - The demographic breakdown reveals a younger workforce, mostly in the 20-29 age group, with a significant gender gap favoring males.
 - Hiring trends suggest growth, with the number of employees peaking in 2022, but attrition is more prominent among those with less than 2 years at the company.
 - Overtime and travel requirements seem to correlate with higher attrition rates.
+
+
+# Student Mental Health Analysis in SQL
+
+**Technology:** SQL 
+
+**Skills:** Queries, Aggregation, Grouping, Filtering & Rounding
+
+**Description:** Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
+The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
