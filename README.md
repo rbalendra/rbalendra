@@ -161,17 +161,8 @@ Attrition Dashboard: The attrition dashboard analyzes factors contributing to em
 **Description:** Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
 The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
 
-Given information from data: 
-Field Name	      Description
-inter_dom	        Types of students (international or domestic)
-japanese_cate	    Japanese language proficiency
-english_cate	    English language proficiency
-academic	        Current academic level (undergraduate or graduate)
-age	              Current age of student
-stay	            Current length of stay in years
-todep	            Total score of depression (PHQ-9 test)
-tosc	            Total score of social connectedness (SCS test)
-toas	            Total score of acculturative stress (ASISS test)
+![image](https://github.com/user-attachments/assets/1e2a030d-9134-44e3-9f04-7ad667dbfdff)
+![1](https://github.com/user-attachments/assets/e54364f3-cada-4222-8475-85ceef032473)
 
-![1](https://github.com/user-attachments/assets/1a0a7d47-76f1-4bf0-8766-2eefec2739e3)
+
 
