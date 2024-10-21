@@ -23,7 +23,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
   - [Property Analysis](#property-analysis)
   - [Customer Churn Analysis](#customer-churn-analysis)
   - [HR Analytics in Power BI](#hr-analytics-in-power-bi)
-  - [Student Mental Health Analysis in SQL](#student-mental-health-in-SQL)
+  - [Student Mental Health Analysis in SQL](#student-mental-heath-analysis-in-sql)
 
 
 
@@ -151,7 +151,7 @@ Attrition Dashboard: The attrition dashboard analyzes factors contributing to em
 - Overtime and travel requirements seem to correlate with higher attrition rates.
 
 
-# Student Mental Health Analysis in SQL
+## Student Mental Health Analysis in SQL
 
 **Technology:** SQL 
 
