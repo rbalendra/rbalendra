@@ -152,17 +152,7 @@ Attrition Dashboard: The attrition dashboard analyzes factors contributing to em
 - Overtime and travel requirements seem to correlate with higher attrition rates.
 
 
-## Student Mental Health Analysis in SQL
 
-**Technology:** SQL 
-
-**Skills:** Filtering, Sorting and Summarising Data
-
-**Description:** Does going to university in a different country affect your mental health? A Japanese international university surveyed its students in 2018 and published a study the following year that was approved by several ethical and regulatory boards.
-The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
-
-![image](https://github.com/user-attachments/assets/1e2a030d-9134-44e3-9f04-7ad667dbfdff)
-![1](https://github.com/user-attachments/assets/e54364f3-cada-4222-8475-85ceef032473)
 
 
 
