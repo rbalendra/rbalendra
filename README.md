@@ -1,5 +1,5 @@
 # Who's Rajeev And What Has He Built? 👨🏽‍💻📊
-<img title="banner" alt="Alt text" src="Black.png">
+
 
 ## Summary 
 I'm a junior data enthusiast with a passion for turning data into meaningful insights. With skills in SQL, Python, Power BI, and Tableau, I've tackled real-world business problems, delivering data-driven recommendations. This respository highlights my projects in data analysis, ETL processes, reporting and interactive visualizations.  I'm now seeking an entry-level data analyst role where I can contribute to data-driven decision-making and continue honing my skills.
