@@ -23,7 +23,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
   - [Property Analysis](#property-analysis)
   - [Customer Churn Analysis](#customer-churn-analysis)
   - [HR Analytics in Power BI](#hr-analytics-in-power-bi)
-  - [Student Mental Health Analysis in SQL](#student-mental-health-analysis-in-sql)
+
 
 
 
