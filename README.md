@@ -9,7 +9,7 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 ## Technical Skills 🔨
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,typescript,java,spring,mysql,nest,tailwind,git,aws)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbalendra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbalendra&layout=compact&exclude_repo=first-rails-app,rails-longest-word-game,thespoon-with-activerecord,rails-task-manager,rails-yelp-mvp,rails-simple-airbnb,rails-mister-cocktail,new-blog,fullstack-challenges,kook-app,railsfriends,crypto-calculator,scheduled_tweets,ozone,finance-tracker)
 
 ## Table of Contents
 + [Summary](#summary)
