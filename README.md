@@ -1,4 +1,5 @@
 # Who's Rajeev And What Has He Built? 👨🏽‍💻📊
+![github-header-image](https://github.com/user-attachments/assets/83582825-a8a7-4d08-b2c6-2181f9c5680e)
 
 
 ## Summary 
