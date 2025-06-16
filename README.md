@@ -8,17 +8,8 @@ I'm a junior data enthusiast with a passion for turning data into meaningful ins
 
 ## Technical Skills 🔨
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,react,typescript,java,spring,mysql,nest,tailwind,git,aws)](https://skillicons.dev)
-+ Microsoft Excel
-+ Microsoft Power BI
-+ SQL 
-+ SSMS (SQL Server Management Studio)
-+ Tableau
-+ Python
-+ Data modelling
-+ Data warehouse
-+ ETL Tools
-+ Cloud Platform (Azure, Fabric)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rbalendra&layout=compact)
 
 ## Table of Contents
 + [Summary](#summary)
